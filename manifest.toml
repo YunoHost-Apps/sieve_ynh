@@ -55,7 +55,7 @@ ram.runtime = "50M"
 
         [resources.sources.main]
         url = "https://github.com/thsmi/sieve/releases/download/0.6.1/sieve-0.6.1-web.zip"
-        sha256 = "ddddddd"
+        sha256 = "4e3d07ec26ed7cef0430cb8bf8e3f1d2d38c64e57720885ea1d15357ea9950cf"
 
         autoupdate.strategy = "latest_github_release"
         autoupdate.asset = "^sieve-.*-web.zip$"
